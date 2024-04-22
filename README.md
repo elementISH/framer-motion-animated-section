@@ -28,6 +28,10 @@ You can start editing the page by modifying `src/App.jsx`. The page auto-updates
 - framer motion
 - tailwindCSS
 
----
+#### Live preview
+
+## check the live preview
+
+[live preview](https://framer-motion-animated-section.vercel.app/)
 
 © Ismail Mansour 2024
