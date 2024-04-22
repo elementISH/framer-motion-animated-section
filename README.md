@@ -2,6 +2,9 @@
 
 a cool section animation inspired from [this](https://www.hover.dev/components/features#swap-column-features)
 
+> [!NOTE]  
+> please note that this page is not responsive.
+
 ---
 
 ## Getting Started
@@ -29,8 +32,6 @@ You can start editing the page by modifying `src/App.jsx`. The page auto-updates
 - tailwindCSS
 
 #### Live preview
-
-## check the live preview
 
 [live preview](https://framer-motion-animated-section.vercel.app/)
 
